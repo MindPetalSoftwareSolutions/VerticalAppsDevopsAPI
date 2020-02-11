@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace VerticalAppsDevopsAPI.Models{
+namespace VerticalAppsDevopsAPI.Domain.Models{
     public class Authentication{
         
         [Required]
